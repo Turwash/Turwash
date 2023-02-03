@@ -26,6 +26,7 @@
 <hr/>
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+<hr size="2 noshade>  
 
 [![Instagram Badge](https://img.shields.io/badge/-@turwashmusic-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/turwashmusic)
 [![Linkedin Badge](https://img.shields.io/badge/-turwashchakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/turwashchakraborty/)
