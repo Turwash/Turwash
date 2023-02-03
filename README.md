@@ -25,22 +25,6 @@
 
 <hr/>
 
-<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
-<hr size="2 noshade>  
-
-[![Instagram Badge](https://img.shields.io/badge/-@turwashmusic-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/turwashmusic)
-[![Linkedin Badge](https://img.shields.io/badge/-turwashchakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/turwashchakraborty/)
-[![Facebook Badge](https://img.shields.io/badge/-turwashcahkraborty-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/turwash.chakraborty)
-![](https://komarev.com/ghpvc/?username=Turwashchakraborty&color=blue)
-
-
-<!--
-```
-https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
-```
--->
-
-<br>
 
 ### Languages & Technologies
 
