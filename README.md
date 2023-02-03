@@ -7,11 +7,13 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Always+Learning+New+Technologies;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=1080&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Always+Learning+New+Technologies;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
 
 <hr/>
+
+<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
 ### I am a web developer
 
