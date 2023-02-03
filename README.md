@@ -8,10 +8,9 @@
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Always+Learning+New+Technologies;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
-
-![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
   
-  
+<hr size="2 noshade>  
+          
  ### I am a web developer
 
 - 👨‍🏭 I’m currently pursuing **B-Tech From Lovely Professional University** <br>
@@ -59,5 +58,6 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <img align="left" alt="Jquery" width="40px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
 
 <br><br>
+<hr size="2" noshade>
 
-
+![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
