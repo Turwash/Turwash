@@ -11,13 +11,13 @@
   
 <hr size="2 noshade>  
           
- ### I am a web developer
+### I am a web developer
 
-- 👨‍🏭 I’m currently pursuing **B-Tech From Lovely Professional University** <br>
-- 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
+- 👨‍🏭 I’m currently pursuing **B-Tech at Lovely Professional University** <br>
+- 🏫 I’m currently learning **Web Devlopment and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **MERN Stack and Programming**<br>
-- 🥅 2024 Goals: **To Get Placed :)** <br>
+- 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
+- 🥅 2021 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
