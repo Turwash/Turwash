@@ -99,12 +99,6 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 ![](https://activity-graph.herokuapp.com/graph?username=Turwash&theme=github)
 
-<p align="center">
-<a href="https://diligentcreator.ml/u/admin" target="_blank">
- 
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png)
-  
-</a>
 
 
 ![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
