@@ -10,35 +10,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Always+Learning+New+Technologies;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
-  
-<hr size="2 noshade>  
- 
- ## TOP NEW PROJECTS
- My Recent Projects with Backend: <br>
- <a href="https://diligentcreator.ml/">1. Diligent Creators</a> Visit <a href='https://diligentcreator.ml/u/admin'>My Resume</a><br>
- <a href="https://enally.in/files-manager/">2. Classroom Bucket</a><br>
- <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
- 4. More <a href="https://enally.in/">Link 1</a> & <a href="https://enally.in/files-manager/project-page">Link 2</a><br>
-<br>
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+<hr/>
 
 ### I am a web developer
 
-- 👨‍🏭 I’m currently pursuing **B-Tech** <br>
-- 🏫 I’m currently learning **Web Devlopment and DSA** <br>
+- 👨‍🏭 I’m currently pursuing **B-Tech at Lovely Professional University** <br>
+- 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2021 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
+- 🥅 2024 Goals: **To get Placed :)** <br>
 
+🕵 Take a look at my repositories and let's get in touch!<br>
 
 ### Connect with me
 
 <hr/>
 
+<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-### Languages & Technologies
+[![Instagram Badge](https://img.shields.io/badge/-@turwashmusic-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/turwashmusic/)](https://www.instagram.com/turwashmusic/)
+[![Linkedin Badge](https://img.shields.io/badge/-turwashchakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/turwashchakraborty/)](https://www.linkedin.com/in/turwashchakraborty/)
+[![Facebook Badge](https://img.shields.io/badge/-turwashchakraborty-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/turwash.chakraborty)](https://www.facebook.com/turwash.chakraborty)
+
+
+<!--
+```
+https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
+```
+-->
+
+<br>
 
 <hr/>
 
