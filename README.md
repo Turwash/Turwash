@@ -7,7 +7,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=1080&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Always+Learning+New+Technologies;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=1090&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
 
